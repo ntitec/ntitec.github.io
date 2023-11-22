@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.ntitec.ecosave",
+            "sha256_cert_fingerprints": [
+                "E6:A2:24:78:0A:4D:7E:68:CA:15:C4:EA:69:A1:D6:7E:9F:A5:F9:24:29:B6:3A:17:9C:04:2D:39:69:2F:2A:5C"
+            ]
+        }
+    }
+]
